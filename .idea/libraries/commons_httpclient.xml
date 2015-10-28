@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="commons-httpclient">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-httpclient-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.10.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-httpclient-3.1-src.zip!/commons-httpclient-3.1/docs/apidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-httpclient-3.1-src.zip!/commons-httpclient-3.1/src/contrib" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-httpclient-3.1-src.zip!/commons-httpclient-3.1/src/examples" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-httpclient-3.1-src.zip!/commons-httpclient-3.1/src/java" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-httpclient-3.1-src.zip!/commons-httpclient-3.1/src/test" />
+    </SOURCES>
+  </library>
+</component>
