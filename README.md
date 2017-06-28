@@ -1,3 +1,3 @@
 # Upsource.SampleRPC
 
-A sample RPC client for Upsource
+A sample RPC client for Upsource.
